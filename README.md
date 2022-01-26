@@ -1,2 +1,2 @@
 # QuieroPizza
-QuieroPizza es un proyecto Web de la clase Lneguaje de la Programación IV.
+Es un proyecto Web de la clase Lenguaje de la Programación IV.
